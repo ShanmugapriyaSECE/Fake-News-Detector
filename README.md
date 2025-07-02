@@ -35,3 +35,4 @@ pip install -r requirements.txt
 # 3. Run the app (choose one)
 python app.py          # Flask backend
 streamlit run streamlit_app.py   # Streamlit frontend
+```bash
